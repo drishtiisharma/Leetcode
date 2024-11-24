@@ -1,3 +1,9 @@
+#Problem Number: 386
+#Problem Statement:
+#Given an integer n, return all the numbers in the range [1, n] sorted in lexicographical order.
+#You must write an algorithm that runs in O(n) time and uses O(1) extra space. 
+#Difficulty level: Medium
+
 class Solution(object):
     def lexicalOrder(self, n):
         num = 1
