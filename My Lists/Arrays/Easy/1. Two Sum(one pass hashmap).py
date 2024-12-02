@@ -11,3 +11,6 @@ class Solution:
             if complement in hashmp:
                 return [hashmp[complement],i]
             hashmp[nums[i]]=i
+
+#time complexity: O(N)
+#space complexity: O(N)
