@@ -66,8 +66,6 @@ This repository focuses on basic and foundational operations on pandas DataFrame
 
 ---
 
-## **Getting Started**
-
 ### **Prerequisites**
 - Python 3.7 or later
 - `pandas` library installed  
@@ -89,19 +87,3 @@ This repository focuses on basic and foundational operations on pandas DataFrame
    ```bash
    python <script-name>.py
    ```
-
----
-
-## **License**
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## **Contributing**
-Contributions are welcome! If you'd like to add new examples or improve the existing ones, feel free to open a pull request.  
-
----
-
-## **Acknowledgments**
-- Inspired by the versatility of the `pandas` library.
-- Designed for learners looking to master DataFrame operations.
