@@ -18,53 +18,51 @@ This repository focuses on basic and foundational operations on pandas DataFrame
 ---
 
 ### **Data Selection and Manipulation**
-4. **[2880. Select Data.py](2880.%20Select%20Data.py)**  
-   Details methods for selecting rows, columns, and specific data.
+4. **[Details methods for selecting rows, columns, and specific data.](https://github.com/drishtiisharma/Leetcode/blob/main/Study%20Plans/Introduction%20to%20Pandas/2880.%20Select%20Data.py)**  
 
-5. **[2881. Create a New Column.py](2881.%20Create%20a%20New%20Column.py)**  
-   Explains how to add new columns to a DataFrame.
+5. **[Explains how to add new columns to a DataFrame.](https://github.com/drishtiisharma/Leetcode/blob/main/Study%20Plans/Introduction%20to%20Pandas/2881.%20Create%20a%20New%20Column.py)**  
+  
 
 ---
 
 ### **Data Cleaning**
-6. **[2882. Drop Duplicate Rows.py](2882.%20Drop%20Duplicate%20Rows.py)**  
-   Shows how to remove duplicate rows from a DataFrame.
+6. **[Shows how to remove duplicate rows from a DataFrame.](https://github.com/drishtiisharma/Leetcode/blob/main/Study%20Plans/Introduction%20to%20Pandas/2882.%20Drop%20Duplicate%20Rows.py)**  
+   
 
-7. **[2883. Drop Missing Data.py](2883.%20Drop%20Missing%20Data.py)**  
-   Demonstrates how to handle missing data by dropping rows/columns.
+7. **[Demonstrates how to handle missing data by dropping rows/columns.](https://github.com/drishtiisharma/Leetcode/blob/main/Study%20Plans/Introduction%20to%20Pandas/2883.%20Drop%20Missing%20Data.py)**  
+   
 
-8. **[2887. Fill Missing Data.py](2887.%20Fill%20Missing%20Data.py)**  
-   Provides techniques to fill missing data using various strategies.
+8. **[Provides techniques to fill missing data using various strategies.](https://github.com/drishtiisharma/Leetcode/blob/main/Study%20Plans/Introduction%20to%20Pandas/2887.%20Fill%20Missing%20Data.py)**  
+   
 
 ---
 
 ### **Data Transformation**
-9. **[2884. Modify Columns.py](2884.%20Modify%20Columns.py)**  
-   Explains how to modify or update column values.
+9. **[Explains how to modify or update column values.](https://github.com/drishtiisharma/Leetcode/blob/main/Study%20Plans/Introduction%20to%20Pandas/2884.%20Modify%20Columns.py)**  
+   
 
-10. **[2885. Rename Columns.py](2885.%20Rename%20Columns.py)**  
-    Covers renaming column headers in a DataFrame.
+10. **[Covers renaming column headers in a DataFrame.](https://github.com/drishtiisharma/Leetcode/blob/main/Study%20Plans/Introduction%20to%20Pandas/2885.%20Rename%20Columns.py)**  
+    
 
-11. **[2886. Change Data Type.py](2886.%20Change%20Data%20Type.py)**  
-    Shows how to convert a column's data type (e.g., `int` to `float`).
+11. **[Shows how to convert a column's data type (e.g., `int` to `float`).](https://github.com/drishtiisharma/Leetcode/blob/main/Study%20Plans/Introduction%20to%20Pandas/2886.%20Change%20Data%20Type.py)**  
+    
 
 ---
 
 ### **Data Reshaping**
-12. **[2888. Reshape Data: Concatenate.py](2888.%20Reshape%20Data:%20Concatenate.py)**  
-    Demonstrates how to concatenate multiple DataFrames.
+12. **[Demonstrates how to concatenate multiple DataFrames.](https://github.com/drishtiisharma/Leetcode/blob/main/Study%20Plans/Introduction%20to%20Pandas/2888.%20Reshape%20Data%3A%20Concatenate.py)**  
 
-13. **[2889. Reshape Data: Pivot.py](2889.%20Reshape%20Data:%20Pivot.py)**  
-    Provides an example of pivoting data for analysis.
+13. **[Provides an example of pivoting data for analysis.](https://github.com/drishtiisharma/Leetcode/blob/main/Study%20Plans/Introduction%20to%20Pandas/2889.%20Reshape%20Data%3A%20Pivot.py)**  
+    
 
-14. **[2890. Reshape Data: Melt.py](2890.%20Reshape%20Data:%20Melt.py)**  
-    Explains melting data for reshaping purposes.
+14. **[Explains melting data for reshaping purposes.](https://github.com/drishtiisharma/Leetcode/blob/main/Study%20Plans/Introduction%20to%20Pandas/2890.%20Reshape%20Data%3A%20Melt.py)**  
+    
 
 ---
 
 ### **Advanced Techniques**
-15. **[2891. Method Chaining.py](2891.%20Method%20Chaining.py)**  
-    Illustrates how to use method chaining for cleaner and more concise code.
+15. **[Illustrates how to use method chaining for cleaner and more concise code.](https://github.com/drishtiisharma/Leetcode/blob/main/Study%20Plans/Introduction%20to%20Pandas/2891.%20Method%20Chaining.py)**  
+    
 
 ---
 
